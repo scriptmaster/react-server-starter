@@ -45,4 +45,4 @@ I was trying to setup a simple development server for react with both server and
 
 # Disclaimer
 
-Starter template created from scratch and written by Mohammed Sheriff.  All the lines of this readme and the starter template code are written by Sheriff with understandings from how React, ES6, Babel, Webpack and NodeJS can work together, except package.json and auto-generated files.  No copy paste as most of you would expect/underestimate.  You are free to use it, if you like it.
+Starter template created from scratch and written by Mohammed Sheriff.  All the lines of this readme and the starter template code are written by Sheriff with understandings from how React, ES6, Babel, Webpack and NodeJS can work together, and the caveats from other start templates including Microsoft's typescript starter template, create-react-app, react-scripts, etc., (except for package.json and auto-generated files).  No copy paste as most of you would expect/underestimate.  You are free to use it, if you like it.
